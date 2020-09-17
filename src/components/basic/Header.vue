@@ -1,5 +1,5 @@
 <template>
-  <v-app-bar app clipped-left dense>
+  <v-app-bar app clipped-left dense color="white">
     <img src="@/assets/image/logo.jpg" width="30px">
     <pre>  </pre>
     <v-toolbar-title>我的云盘</v-toolbar-title>

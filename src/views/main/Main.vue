@@ -1,6 +1,8 @@
 <template>
   <div>
     <v-card>
+      <v-btn class="ma-3 primary">上传</v-btn>
+      <v-btn class="primary">新建文件夹</v-btn>
       <v-data-table
         v-model="selected"
         :headers="headers"
